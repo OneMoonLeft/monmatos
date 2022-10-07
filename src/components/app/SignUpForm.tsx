@@ -124,7 +124,7 @@ const SignUpForm = () => {
                       >
                         Discord
                       </a>{" "}
-                      ou envoyez-nous un{" "}
+                      dans le #💡-boîte-à-idées ou envoyez-nous un{" "}
                       <Link href="/contact">
                         <a className="font-medium text-blue-500">Message</a>
                       </Link>
